@@ -1,10 +1,13 @@
-# Xbox App Demo
-A quick demo how to initialize the "Xbox Live Sign in" functionality for your website or app.
+# Xbox WP Login
+A wordpress plugin that provides login services with Xbox Account
 
-Part of the [XBL.IO](https://xbl.io) feature set.
+Forked from [XBL.IO](https://xbl.io) feature set.
 
 ## Documentation
-Reader-friendly documentation can be found here. [Getting Started](https://xbl.io/getting-started).
+Create your apps before using this plugin. [Getting Started](https://xbl.io/guides/creating_apps).
+
+## Step-by-step
+Coming soon...
 
 ## Collaborate
-Visit our [discord channel](https://discord.gg/x6kk8M2) and say hello!
+Visit XBL.IO [discord channel](https://discord.gg/x6kk8M2) and say hello!
